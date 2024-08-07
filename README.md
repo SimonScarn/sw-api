@@ -1,6 +1,10 @@
 # planets
 
-This template should help get you started developing with Vue 3 in Vite.
+TO RUN PROJECT:
+
+npm install
+
+npm run dev
 
 ## Recommended IDE Setup
 
